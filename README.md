@@ -1,6 +1,6 @@
 ## Synopsis
 
-TThis sample wordpress data along with media files, best suites with TemplatesNext Themes ( http://templatesnext.org/ispirit/landing/themes/ ) along with plugin "TemplatesNext Toolkit"
+This contains sample wordpress data along with media files, best suites with TemplatesNext Themes ( http://templatesnext.org/ispirit/landing/themes/ ) along with plugin "TemplatesNext Toolkit"
 
 ## Code Example
 
