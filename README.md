@@ -2,107 +2,19 @@
 
 This contains sample wordpress data along with media files, best suites with TemplatesNext Themes ( http://templatesnext.org/ispirit/landing/themes/ ) along with plugin "TemplatesNext Toolkit"
 
-## Code Example
+## Getting Started
 
-Use "tx.wordpress.xml" from WordPress "Tools" > "Import Menu". 
-Use "widget_data.json" via menu "Tools" > "Widgets Settings Import". You will have to have plugin "Widget Settings Importer/Exporter" from https://wordpress.org/plugins/widget-settings-importexport/ installed
+* Install and activate any TemplatesNext theme ( http://templatesnext.org/ispirit/landing/themes/ )
+* install and activate WordPress plugin "TemplatesNext Toolkit" ( https://wordpress.org/plugins/templatesnext-toolkit/ )
+* Optional : Install and activate plugin "Contact Form 7" for contact forms ( https://wordpress.org/plugins/contact-form-7/ )
+* Optional : Install and activate plugin "Widget Settings Importer/Exporter" for widgets ( https://wordpress.org/plugins/widget-settings-importexport/ )
+* Download https://raw.githubusercontent.com/the-king-of-jq-hills/tx-demo/master/tx.wordpress.xml and import via menu "Tools" > "Import" > WordPress.  (You will have to install and activate the importer plugin if it is not installed yet)
+* Download https://raw.githubusercontent.com/the-king-of-jq-hills/tx-demo/master/widget_data.json ind import via menu "Tools" > "Widget Setting Import".
+* Go to "Appearance" > "Menu", Select "main nav" and at the bottom check "Theme locations" > "Navigation Menu" and save.
+* Go to "Settings" > "Reading", Set your "Front Page Display" as "A static page" > "Front Page".
+
 
 ## Contributors
 
 marsian
 
-
-
-
-
-
-
-
-
-# Project Title
-
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisities
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Stay what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* Dropwizard - Bla bla bla
-* Maven - Maybe
-* Atom - ergaerga
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
