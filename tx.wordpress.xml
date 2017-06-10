@@ -35,8 +35,8 @@
 	<wp:base_site_url>http://templatesnext.in/demo</wp:base_site_url>
 	<wp:base_blog_url>http://templatesnext.in/demo</wp:base_blog_url>
 
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[iadmin]]></wp:author_login><wp:author_email><![CDATA[marsian.mcs@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[iadmin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[marsian]]></wp:author_login><wp:author_email><![CDATA[marsian.mcs@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[marsian]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[iadmin]]></wp:author_login><wp:author_email><![CDATA[adminemail@yourdomain.com]]></wp:author_email><wp:author_display_name><![CDATA[iadmin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[marsian]]></wp:author_login><wp:author_email><![CDATA[adminemail@yourdomain.com]]></wp:author_email><wp:author_display_name><![CDATA[marsian]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 	<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -5517,7 +5517,7 @@ On clicking the "tx" button, the list of shortcodes will appear as popup, select
 		<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.62.226]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-04-15 18:43:57]]></wp:comment_date>
@@ -5539,7 +5539,7 @@ On clicking the "tx" button, the list of shortcodes will appear as popup, select
 		<wp:comment>
 			<wp:comment_id>6</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.62.226]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-04-15 18:45:31]]></wp:comment_date>
@@ -5583,7 +5583,7 @@ On clicking the "tx" button, the list of shortcodes will appear as popup, select
 		<wp:comment>
 			<wp:comment_id>8</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.51.91]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-04-17 01:23:26]]></wp:comment_date>
@@ -5716,7 +5716,7 @@ can some one here post the video for using this tool? realy i'm stuck when i try
 		<wp:comment>
 			<wp:comment_id>14</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[59.177.100.235]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-04-19 03:51:03]]></wp:comment_date>
@@ -5760,7 +5760,7 @@ can some one here post the video for using this tool? realy i'm stuck when i try
 		<wp:comment>
 			<wp:comment_id>16</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.48.172]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-04-22 08:31:42]]></wp:comment_date>
@@ -5967,7 +5967,7 @@ I have the plugin installed
 		<wp:comment>
 			<wp:comment_id>25</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.189.251]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-08 02:48:06]]></wp:comment_date>
@@ -5989,7 +5989,7 @@ I have the plugin installed
 		<wp:comment>
 			<wp:comment_id>26</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.189.251]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-08 02:48:53]]></wp:comment_date>
@@ -6011,7 +6011,7 @@ I have the plugin installed
 		<wp:comment>
 			<wp:comment_id>27</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.189.251]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-08 02:49:49]]></wp:comment_date>
@@ -6196,7 +6196,7 @@ Thank you for your help..]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>35</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[223.30.221.212]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-14 15:51:51]]></wp:comment_date>
@@ -6744,7 +6744,7 @@ I am a student. I am just a beginer in Wordpress. I am using your theme . but i 
 		<wp:comment>
 			<wp:comment_id>59</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.180.233]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-25 13:24:17]]></wp:comment_date>
@@ -6766,7 +6766,7 @@ I am a student. I am just a beginer in Wordpress. I am using your theme . but i 
 		<wp:comment>
 			<wp:comment_id>60</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.180.233]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-25 13:26:52]]></wp:comment_date>
@@ -7470,7 +7470,7 @@ thank you!]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>549</wp:comment_id>
 			<wp:comment_author><![CDATA[Bhupendra Mandal]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url>http://www.templatesnext.in</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[182.69.213.78]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-08-22 12:33:14]]></wp:comment_date>
@@ -7808,7 +7808,7 @@ Jennifer Ting]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>93</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.62.161]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-03 19:11:51]]></wp:comment_date>
@@ -8173,7 +8173,7 @@ Doesn't work is there another why around it?]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>108</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.190.161]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-01-12 12:03:15]]></wp:comment_date>
@@ -8200,7 +8200,7 @@ Doesn't work is there another why around it?]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>109</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.190.161]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-01-12 12:05:12]]></wp:comment_date>
@@ -8271,7 +8271,7 @@ Thanks.]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>112</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.60.39]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-01-28 10:38:40]]></wp:comment_date>
@@ -8605,7 +8605,7 @@ kindly advise how to disable comment on pages/posts.]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>119</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.189.251]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-08 02:51:35]]></wp:comment_date>
@@ -8765,7 +8765,7 @@ there were other plugins active which obviously suppressed the testimonial meta 
 		<wp:comment>
 			<wp:comment_id>126</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.181.218]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-07-20 05:41:55]]></wp:comment_date>
@@ -9781,7 +9781,7 @@ Thank you]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>160</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[223.30.221.212]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-14 15:55:39]]></wp:comment_date>
@@ -9891,7 +9891,7 @@ Thank you]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>165</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.54.236]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-07-20 00:56:21]]></wp:comment_date>
@@ -9913,7 +9913,7 @@ Thank you]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>166</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.54.236]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-07-20 04:20:46]]></wp:comment_date>
@@ -10890,7 +10890,7 @@ Thanks.]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>202</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.184.150]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-09 08:50:09]]></wp:comment_date>
@@ -10912,7 +10912,7 @@ Thanks.]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>203</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.184.150]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-09 08:54:08]]></wp:comment_date>
@@ -11022,7 +11022,7 @@ thx in advance..]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>207</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[223.30.221.212]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-14 15:53:58]]></wp:comment_date>
@@ -11397,7 +11397,7 @@ i need to display a portfolio of just one category. It is posible?]]></wp:commen
 		<wp:comment>
 			<wp:comment_id>223</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.181.218]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-07-20 04:42:15]]></wp:comment_date>
@@ -11423,7 +11423,7 @@ to filter a portfolio category add the parameter blog_term=&quot;portfolio-categ
 		<wp:comment>
 			<wp:comment_id>224</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.181.218]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-07-20 05:21:39]]></wp:comment_date>
@@ -11445,7 +11445,7 @@ to filter a portfolio category add the parameter blog_term=&quot;portfolio-categ
 		<wp:comment>
 			<wp:comment_id>225</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.182.76]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-07-20 14:21:16]]></wp:comment_date>
@@ -11467,7 +11467,7 @@ to filter a portfolio category add the parameter blog_term=&quot;portfolio-categ
 		<wp:comment>
 			<wp:comment_id>226</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.182.76]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-07-20 14:39:49]]></wp:comment_date>
@@ -11632,7 +11632,7 @@ Thank you!]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>233</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.180.233]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-25 13:18:45]]></wp:comment_date>
@@ -11885,7 +11885,7 @@ Thank you and sorry for the inconvenience .]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>243</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.54.137]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-12-22 05:08:23]]></wp:comment_date>
@@ -12406,7 +12406,7 @@ Thanks,]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>261</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.48.172]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-04-22 08:33:17]]></wp:comment_date>
@@ -12476,7 +12476,7 @@ Thanks for help,]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>264</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[176.126.237.217]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-05-24 00:15:17]]></wp:comment_date>
@@ -12602,7 +12602,7 @@ How can I fix this?!?]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>269</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.62.161]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-03 19:01:32]]></wp:comment_date>
@@ -12718,7 +12718,7 @@ Thanks,]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>274</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.190.99]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-15 22:43:51]]></wp:comment_date>
@@ -13199,7 +13199,7 @@ Can anybody help?]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>294</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.54.236]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-07-20 00:57:35]]></wp:comment_date>
@@ -13221,7 +13221,7 @@ Can anybody help?]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>295</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.54.236]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-07-20 02:58:33]]></wp:comment_date>
@@ -13610,7 +13610,7 @@ What can I do?]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>311</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.180.233]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-25 13:25:58]]></wp:comment_date>
@@ -13955,7 +13955,7 @@ Thanks in advance!]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>326</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.54.137]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-12-22 05:09:59]]></wp:comment_date>
@@ -13977,7 +13977,7 @@ Thanks in advance!]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>327</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.54.137]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-12-22 05:14:45]]></wp:comment_date>
@@ -14074,7 +14074,7 @@ Flavio]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>331</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.190.161]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-01-12 12:09:43]]></wp:comment_date>
@@ -14143,7 +14143,7 @@ Flavio]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>334</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.177.196]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-01-26 11:24:58]]></wp:comment_date>
@@ -14892,7 +14892,7 @@ Find meta section "page Heading Options" bellow page editor and insert the short
 		<wp:comment>
 			<wp:comment_id>340</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[59.177.100.235]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-04-19 03:57:14]]></wp:comment_date>
@@ -14985,7 +14985,7 @@ Is there any way to hide the text to only have a slider with photos ?]]></wp:com
 		<wp:comment>
 			<wp:comment_id>344</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.56.192]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-05-04 09:52:19]]></wp:comment_date>
@@ -15197,7 +15197,7 @@ Cheers]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>353</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[176.126.237.217]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-05-23 18:06:27]]></wp:comment_date>
@@ -15219,7 +15219,7 @@ Cheers]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>354</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[176.126.237.217]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-05-23 18:21:22]]></wp:comment_date>
@@ -15257,7 +15257,7 @@ Cheers]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>355</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[176.126.237.217]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-05-24 00:12:05]]></wp:comment_date>
@@ -15327,7 +15327,7 @@ Look forward to hearing from you.]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>358</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.178.68]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-05-29 02:29:41]]></wp:comment_date>
@@ -15398,7 +15398,7 @@ Thanks,
 		<wp:comment>
 			<wp:comment_id>361</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.190.106]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-02 05:31:50]]></wp:comment_date>
@@ -15486,7 +15486,7 @@ Thanks,
 		<wp:comment>
 			<wp:comment_id>365</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[59.177.97.172]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-02 13:02:52]]></wp:comment_date>
@@ -15508,7 +15508,7 @@ Thanks,
 		<wp:comment>
 			<wp:comment_id>366</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[59.177.97.172]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-02 13:07:51]]></wp:comment_date>
@@ -15728,7 +15728,7 @@ Tank you]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>373</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.62.161]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-03 19:02:27]]></wp:comment_date>
@@ -15750,7 +15750,7 @@ Tank you]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>374</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.62.161]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-03 19:06:25]]></wp:comment_date>
@@ -15774,7 +15774,7 @@ Tank you]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>375</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.62.161]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-03 19:10:53]]></wp:comment_date>
@@ -15846,7 +15846,7 @@ Thanks]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>378</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.60.221]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-04 16:55:39]]></wp:comment_date>
@@ -15868,7 +15868,7 @@ Thanks]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>379</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.60.221]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-04 16:57:12]]></wp:comment_date>
@@ -15987,7 +15987,7 @@ Welcome to i-MAX   To start setting up i-max go to appearance &amp; gt; customiz
 		<wp:comment>
 			<wp:comment_id>384</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.184.150]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-09 08:41:15]]></wp:comment_date>
@@ -16022,7 +16022,7 @@ in functions.js]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>385</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.184.150]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-09 08:51:29]]></wp:comment_date>
@@ -16161,7 +16161,7 @@ Thank]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>391</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[223.30.221.212]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-14 15:58:05]]></wp:comment_date>
@@ -16205,7 +16205,7 @@ Thank]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>393</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.185.141]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-15 22:55:23]]></wp:comment_date>
@@ -16799,7 +16799,7 @@ Regards!]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>418</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.181.218]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-07-20 04:35:31]]></wp:comment_date>
@@ -16821,7 +16821,7 @@ Regards!]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>419</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.181.218]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-07-20 04:55:50]]></wp:comment_date>
@@ -16843,7 +16843,7 @@ Regards!]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>420</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.181.218]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-07-20 05:22:30]]></wp:comment_date>
@@ -16865,7 +16865,7 @@ Regards!]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>421</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.182.76]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-07-20 14:19:26]]></wp:comment_date>
@@ -17581,7 +17581,7 @@ Could you help me with this? I don't understand why this happens.]]></wp:comment
 		<wp:comment>
 			<wp:comment_id>449</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.56.180]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-08 22:14:53]]></wp:comment_date>
@@ -17603,7 +17603,7 @@ Could you help me with this? I don't understand why this happens.]]></wp:comment
 		<wp:comment>
 			<wp:comment_id>450</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.56.180]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-08 22:16:28]]></wp:comment_date>
@@ -17625,7 +17625,7 @@ Could you help me with this? I don't understand why this happens.]]></wp:comment
 		<wp:comment>
 			<wp:comment_id>451</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.56.180]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-08 22:19:06]]></wp:comment_date>
@@ -17713,7 +17713,7 @@ Could you help me with this? I don't understand why this happens.]]></wp:comment
 		<wp:comment>
 			<wp:comment_id>455</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.180.233]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-25 13:20:03]]></wp:comment_date>
@@ -18535,7 +18535,7 @@ Thanks for a nice theme! But i have a problem with the slider. My slider is not 
 		<wp:comment>
 			<wp:comment_id>489</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.59.54.137]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-12-22 05:12:35]]></wp:comment_date>
@@ -18769,7 +18769,7 @@ Thanks!]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>499</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[59.177.98.36]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-01-23 06:53:35]]></wp:comment_date>
@@ -18793,7 +18793,7 @@ Reupload the images and try. Also try cleaning your browser cache.]]></wp:commen
 		<wp:comment>
 			<wp:comment_id>500</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[59.177.98.36]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-01-23 06:56:25]]></wp:comment_date>
@@ -18817,7 +18817,7 @@ You can try other plugins for bugger icons]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>501</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[59.177.98.36]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-01-23 06:57:31]]></wp:comment_date>
@@ -19164,7 +19164,7 @@ Fusce ut sodales ante. Praesent lacinia est eu varius bibendum. Donec mi libero,
 		<wp:comment>
 			<wp:comment_id>511</wp:comment_id>
 			<wp:comment_author><![CDATA[marsian]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[120.56.185.141]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-06-15 22:53:51]]></wp:comment_date>
@@ -20326,7 +20326,7 @@ For an F-TYPE without keyless entry, pressing the unlock button on the key fob c
 		<wp:comment>
 			<wp:comment_id>524</wp:comment_id>
 			<wp:comment_author><![CDATA[admin]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[adminemail@yourdomain.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[::1]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2014-01-10 16:07:10]]></wp:comment_date>
@@ -22199,7 +22199,7 @@ Message Body:
 
 --
 This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)
-marsian.mcs@gmail.com
+adminemail@yourdomain.com
 Reply-To: [your-email]
 
 0
@@ -22213,7 +22213,7 @@ Message Body:
 --
 This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)
 [your-email]
-Reply-To: marsian.mcs@gmail.com
+Reply-To: adminemail@yourdomain.com
 
 0
 0
@@ -22263,7 +22263,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:21:"marsian.mcs@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:21:"adminemail@yourdomain.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -22271,7 +22271,7 @@ This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.
 [your-message]
 
 --
-This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: marsian.mcs@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: adminemail@yourdomain.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -22312,7 +22312,7 @@ Message Body:
 
 --
 This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)
-marsian.mcs@gmail.com
+adminemail@yourdomain.com
 Reply-To: [your-email]
 
 
@@ -22326,7 +22326,7 @@ Message Body:
 --
 This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)
 [your-email]
-Reply-To: marsian.mcs@gmail.com
+Reply-To: adminemail@yourdomain.com
 
 
 
@@ -22387,7 +22387,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:21:"marsian.mcs@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:21:"adminemail@yourdomain.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -22395,7 +22395,7 @@ This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.
 [your-message]
 
 --
-This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: marsian.mcs@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: adminemail@yourdomain.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
